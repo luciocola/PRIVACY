@@ -13,4 +13,4 @@ Any consequences, damages, or liabilities arising from the public availability o
 The actions of any third parties who may access, use, or misuse your publicly available data.
 By using this Plugin, you acknowledge these risks and agree to release the developers from any and all liability that may arise from your use of this software.
 4. Changes to This StatementWe reserve the right to update this Privacy Statement from time to time. We encourage you to review this statement periodically for any changes. Continued use of the Plugin after any such changes shall constitute your consent to such changes.
-5. Contact UsIf you have any questions or concerns about this Privacy Statement, please contact us at [Your Contact Email or Link to GitHub Issues Page].
+5. Contact UsIf you have any questions or concerns about this Privacy Statement, please contact us at [[https://github.com/issues/].
