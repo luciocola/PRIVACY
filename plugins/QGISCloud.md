@@ -52,4 +52,4 @@ This privacy statement may be updated from time to time. The current version is 
 QGIS Cloud complies with:
 - GDPR (General Data Protection Regulation)
 - Swiss Federal Data Protection Act
-- EU-US Privacy Shield principles
+- Standard Contractual Clauses (SCCs) for international data transfers
